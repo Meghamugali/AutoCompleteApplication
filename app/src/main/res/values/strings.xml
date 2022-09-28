@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">AutoCompleteApplication</string>
+    <string name="title_activity_maps">MapsActivity</string>
+    <string name="api_key">AIzaSyAaFh3jBmSpyO5AO-6hKwqDBO6Q7WZogsg</string>
+</resources>
